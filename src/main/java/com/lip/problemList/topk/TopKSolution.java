@@ -1,4 +1,4 @@
-package com.lip.topk;
+package com.lip.problemList.topk;
 
 import java.util.Iterator;
 import java.util.PriorityQueue;

@@ -1,6 +1,6 @@
 package minio;
 
-import com.lip.minio.MinioDemo;
+import com.lip.middleware.minio.MinioDemo;
 import io.minio.errors.*;
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.lip.minio;
+package com.lip.middleware.minio;
 
 import io.minio.MinioClient;
 import io.minio.PutObjectArgs;

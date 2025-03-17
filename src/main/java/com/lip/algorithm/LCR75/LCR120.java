@@ -1,4 +1,4 @@
-package com.lip.algorithm;
+package com.lip.algorithm.LCR75;
 
 import java.util.HashSet;
 import java.util.Set;

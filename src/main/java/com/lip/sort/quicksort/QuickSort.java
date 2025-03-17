@@ -1,4 +1,4 @@
-package com.lip.quicksort;
+package com.lip.sort.quicksort;
 
 /**
  * @author: Elon

@@ -1,4 +1,4 @@
-package com.lip.cin;
+package com.lip.extra.cin;
 
 import java.util.Scanner;
 

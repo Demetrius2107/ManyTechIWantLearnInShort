@@ -1,4 +1,4 @@
-package com.lip.cout;
+package com.lip.extra.cout;
 
 public class Main {
     public static void main(String[] args) {
