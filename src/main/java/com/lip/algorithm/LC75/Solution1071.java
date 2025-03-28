@@ -27,6 +27,27 @@ public class Solution1071 {
     }
 
     public String gcdOfStrings(String str1, String str2) {
+        int l1 = str1.length();
+        int l2 = str2.length();
 
+        for (int i = Math.min(l1, l2); i >= 1; --i) {
+            if (l1 % i == 0 && l2 % i == 0) {
+                String x = str1.substring(0, i);
+                if (check(x, str1) && check(x, str2)) {
+                    return x;
+                }
+            }
+        }
+
+        return "";
+    }
+
+    public boolean check(String t, String s) {
+        int lenx = s.length() / t.length();
+        StringBuffer ans = new StringBuffer();
+        for (int i = 0; i <= lenx; i++) {
+            ans.append(t);
+        }
+        return ans.toString().equals(s);
     }
 }
