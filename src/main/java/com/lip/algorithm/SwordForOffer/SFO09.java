@@ -1,15 +1,19 @@
+/*
 package com.lip.algorithm.SwordForOffer;
 
+*/
 /**
  * @author: Elon
  * @title: SFO09
  * @projectName: ManyTechIWantLearnInShort
  * @description: TODO
  * @date: 2025/3/17 14:18
- */
+ *//*
+
 public class SFO09 {
 
-    /*
+    */
+/*
     * 请你仅使用两个栈实现先入先出队列。队列应当支持一般队列支持的所有操作（push、pop、peek、empty）：
       实现 MyQueue 类：
 
@@ -38,16 +42,19 @@ public class SFO09 {
 
 1 <= x <= 9
 最多调用 100 次 push、pop、peek 和 empty
-假设所有操作都是有效的 （例如，一个空的队列不会调用 pop 或者 peek 操作）*/
+假设所有操作都是有效的 （例如，一个空的队列不会调用 pop 或者 peek 操作）*//*
 
-    /**
+
+    */
+/**
      * Your MyQueue object will be instantiated and called as such:
      * MyQueue obj = new MyQueue();
      * obj.push(x);
      * int param_2 = obj.pop();
      * int param_3 = obj.peek();
      * boolean param_4 = obj.empty();
-     */
+     *//*
+
 
     class MyQueue {
 
@@ -74,3 +81,4 @@ public class SFO09 {
 
 
 }
+*/

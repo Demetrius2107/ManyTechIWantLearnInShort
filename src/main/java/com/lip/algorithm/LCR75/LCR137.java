@@ -1,14 +1,18 @@
+/*
 package com.lip.algorithm.LCR75;
 
+*/
 /**
  * @author: Elon
  * @title: LCR137
  * @projectName: ManyTechIWantLearnInShort
  * @description: TODO
  * @date: 2025/3/20 10:06
- */
+ *//*
+
 public class LCR137 {
-    /*
+    */
+/*
         请设计一个程序来支持用户在文本编辑器中的模糊搜索功能。用户输入内容中可能使用到如下两种通配符：
                 '.' 匹配任意单个字符。
                 '*' 匹配零个或多个前面的那一个元素。
@@ -27,8 +31,10 @@ public class LCR137 {
 
         输入：article = "ab", input = ".*"
         输出：true
-        解释：".*" 表示可匹配零个或多个（'*'）任意字符（'.'）。*/
+        解释：".*" 表示可匹配零个或多个（'*'）任意字符（'.'）。*//*
+
     public boolean articleMatch(String s, String p) {
 
     }
 }
+*/
